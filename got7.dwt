@@ -20,9 +20,20 @@
 	<br>
 	<h1><b>Rappers</b></h1>
 	<h2>Mark Tuan</h2>
-	<img src="file:///Macintosh%20HD/Users/adriannaaleman/Desktop/dreamweaver%20projects/got7/assets/images/mark.jpg" alt="MarkTuan">
-	<h3> Mark Tuan was born in Los Angeles, California. He has two older sisters and a brother. He is the oldest member of GOT7. Along with being one of the rappers of the group he is also the group's "visual" member, meaning that he has the job to look pretty as well. He has solo songs as well including "OMW" and Chinese single "Outta My Head". He is the quietest of the group.</h3>
+		<img src="assets/images/mark.jpg" alt="marktuan">
+			<h3> Mark Tuan was born in Los Angeles, California. He has two older sisters and a brother. At a young age he moved around from Brazil to Paraguay and then back to America. He is the oldest member of GOT7. Along with being one of the rappers of the group he is also the group's "visual" member, meaning that he has the job to look pretty as well. He has solo songs as well including "OMW" and Chinese single "Outta My Head". He is the quietest of the group.</h3>
 	<br>
-	
-</body>
+	<h2>Jackson Wang</h2>
+		<!---img goes here after editing--->
+			<h3>Jackson Wang was born in Hong Kong, China. Before becoming an idol he was actually a fencer, and was so good that he was on the Hong Kong team and came in eleventh in the Summer Youth Olympics in 2010. In 2011 he won first place in the Asian Junior and Cadet Fencing Championship. He started his own music label under the name Team Wang and has a successful solo career. His solo songs include OKAY, TITANIC ft. Rich Brian, 100 Ways, and many more.</h3>
+	<br>
+	<h2>BamBam</h2>
+		<!---img goes here--->
+			<h3>BamBam was born in Bangkok, Thailand. His real name is Kunpimook Bhuwakul, but goes by his stage name BamBam. BamBam has two older brothers and one younger sister. Since debuting with GOT7 his fame skyrocketed in Thailand, his face is well know all throughout Thailand and on almost every billboard there. The members joke that before he gets on a plane to Thailand he tweets out that he is going home so that he is greeted by hundreds of fans.</h3>
+	<br>
+	<h1><b>Singers</b></h1>
+	<h2>Lim Jaebeom</h2>
+		<!---Img goes here--->
+	<h3></h3>
+	</body>
 </html>
