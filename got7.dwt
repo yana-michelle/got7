@@ -33,7 +33,11 @@
 	<br>
 	<h1><b>Singers</b></h1>
 	<h2>Lim Jaebeom</h2>
-		<!---Img goes here--->
+		<img src="assets/images/jb.jpg" alt="jaebum">
 			<h3>Lim Jaebeom is not only one of the singers of GOT7 but is also their leader whose stage name is simply JB. He is usually the one speaking for them as well as taking care of them. He was also in the group JJ Project with fellow member Jinyoung before the debut of GOT7. He has produced many songs under the name Defsoul and Def. He was a talented B-Boy dancer before recieving a back injury which has limited him from doing such complicated moves.</h3>
+	<br>
+	<h2>Park Jinyoung</h2>
+		<img src="assets/images/jinyoung.jpg" alt="jinyoung">
+			<h3>Park Jinyoung is not only an incredible singer but also has an impressive acting career. He started as a minor character in When a Man Falls in Love. In 2019 he was the main character of the TV show Psychometric which became a hit in South Korea. He then starred in the show When My Love Blooms in 2020. He has been confirmed to be a main charater in upcoming drama Devil Judge, which will air in the later half of this year.</h3>
 	</body>
 </html>
