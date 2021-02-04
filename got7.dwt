@@ -21,7 +21,7 @@
 	<h1><b>Rappers</b></h1>
 	<h2>Mark Tuan</h2>
 		<img src="assets/images/mark.jpg" alt="marktuan">
-			<h3> Mark Tuan was born in Los Angeles, California. He has two older sisters and a brother. At a young age he moved around from Brazil to Paraguay and then back to America. He is the oldest member of GOT7. Along with being one of the rappers of the group he is also the group's "visual" member, meaning that he has the job to look pretty as well. He has solo songs as well including "OMW" and Chinese single "Outta My Head". He is the quietest of the group.</h3>
+			<h3> Mark Tuan was born in Los Angeles, California. He has two older sisters and a brother. At a young age he moved around from Brazil to Paraguay and then back to America. He is the oldest member of GOT7, born in 1993. Along with being one of the rappers of the group he is also the group's "visual" member, meaning that he has the job to look pretty as well. He has solo songs as well including "OMW" and Chinese single "Outta My Head". He is the quietest of the group.</h3>
 	<br>
 	<h2>Jackson Wang</h2>
 		<!---img goes here after editing--->
@@ -45,5 +45,7 @@
 			<h3>Choi Youngjae is the main singer of GOT7. He is known for being able to project his voice amazingly as well as hitting high notes. He is also a well known producer, using the name Ars to produce songs. He also goes by the name Ars on SoundCloud to release his solo songs. He was actually a modeling major before joining GOT7. </h3>
 	<br>
 	<h2>Kim Yugyeom</h2>
+		<img src="assets/images/yugyeom.jpg" alt="yugyeom">
+			<h3>Kim Yougyeom is the youngest member of GOT7, born in 1999. He was also a modeling major befor debuting with GOT7. </h3>
 	</body>
 </html>
