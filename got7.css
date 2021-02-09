@@ -7,6 +7,47 @@
 	text-align: center;
 }
 
+.subTitle{
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: center;
+	color: #0AFC4D;
+}
+
 .paragraph {
 	text-align: center;
+}
+
+.name{
+	text-align: center;
+	color: #056720;
+	border: solid;
+	border-color: black;
+	margin-left: 450px;
+	margin-right: 450px;
+	border-bottom-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px;
+}
+
+.img{
+	overflow: hidden;
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 500px;
+	margin-right:500px;
+	margin-bottom: 50px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 50%;
+}
+
+.paragraph{
+	text-align: center;
+}
+
+.pages{
+	text-align: center;
+	color: #056720
 }
