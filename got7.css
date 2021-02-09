@@ -2,5 +2,11 @@
 /* CSS Document */
 
 .title {
-		margin-left: 50px;
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: center;
+}
+
+.paragraph {
+	text-align: center;
 }

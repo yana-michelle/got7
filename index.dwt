@@ -7,6 +7,7 @@
 <!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
+<link href="got7.css" rel="stylesheet" type="text/css">
 </head>
 	<style>
 		i {color: #0AFC4D}
