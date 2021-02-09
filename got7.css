@@ -56,3 +56,12 @@ table, tr, td{
 	border:1px solid black;
 	border-collapse: collapse;
 }
+
+#pic{
+	text-align: center;
+}
+
+#groupDynamic{
+	text-align: center;
+	text-decoration: underline;
+}

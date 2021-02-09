@@ -7,7 +7,7 @@
 <!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
-<link href="got7.css" rel="stylesheet" type="text/css">
+<link href="../got7.css" rel="stylesheet" type="text/css">
 </head>
 	<style>
 		i {color: #0AFC4D}
@@ -21,34 +21,34 @@
 	<br>
 		<div class="subTitle"><h1><b>Rappers</b></h1></div>
 	<div class="name"><h2>Mark Tuan</h2></div>
-		<div class="img"><img src="assets/images/mark.jpg" alt="marktuan"></div>
+		<div class="img"><img src="../assets/images/mark.jpg" alt="marktuan"></div>
 			<div class="paragraph"><h3> Mark Tuan was born in Los Angeles, California. He has two older sisters and a brother. At a young age he moved around from Brazil to Paraguay and then back to America. He is the oldest member of GOT7, born in 1993. Along with being one of the rappers of the group he is also the group's "visual" member, meaning that he has the job to look pretty as well. He has solo songs as well including "OMW" and Chinese single "Outta My Head". He is the quietest of the group.</h3></div>
 	<br>
 		<div class="name"><h2>Jackson Wang</h2></div>
-		<div class="img"><img src="assets/images/jackson.png" alt="jackson"></div>
+		<div class="img"><img src="../assets/images/jackson.png" alt="jackson"></div>
 			<div class="paragraph"><h3>Jackson Wang was born in Hong Kong, China. Before becoming an idol he was actually a fencer, and was so good that he was on the Hong Kong team and came in eleventh in the Summer Youth Olympics in 2010. In 2011 he won first place in the Asian Junior and Cadet Fencing Championship. He started his own music label under the name Team Wang and has a successful solo career. His solo songs include OKAY, TITANIC ft. Rich Brian, 100 Ways, and many more.</h3></div>
 	<br>
 	<div class="name"><h2>BamBam</h2></div>
-		<div class="img"><img src="assets/images/bambam.png" alt="bambam"></div>
+		<div class="img"><img src="../assets/images/bambam.png" alt="bambam"></div>
 			<h3>BamBam was born in Bangkok, Thailand. His real name is Kunpimook Bhuwakul, but goes by his stage name BamBam. BamBam has two older brothers and one younger sister. Since debuting with GOT7 his fame skyrocketed in Thailand, his face is well know all throughout Thailand and on almost every billboard there. The members joke that before he gets on a plane to Thailand he tweets out that he is going home so that he is greeted by hundreds of fans.</h3>
 	<br>
 		<div class="subTitle"><h1><b>Singers</b></h1></div>
 	<div class="name"><h2>Lim Jaebeom</h2></div>
-		<div class="img"><img src="assets/images/jb.jpg" alt="jaebum"></div>
+		<div class="img"><img src="../assets/images/jb.jpg" alt="jaebum"></div>
 			<div class="paragraph"><h3>Lim Jaebeom is not only one of the singers of GOT7 but is also their leader whose stage name is simply JB. He is usually the one speaking for them as well as taking care of them. He was also in the group JJ Project with fellow member Jinyoung before the debut of GOT7. He has produced many songs under the name Defsoul and Def. He was a talented B-Boy dancer before recieving a back injury which has limited him from doing such complicated moves.</h3></div>
 	<br>
 	<div class="name"><h2>Park Jinyoung</h2></div>
-		<div class="img"><img src="assets/images/jinyoung.jpg" alt="jinyoung"></div>
+		<div class="img"><img src="../assets/images/jinyoung.jpg" alt="jinyoung"></div>
 			<div class="paragraph"><h3>Park Jinyoung, known as Junior until 2016, is not only an incredible singer but also has an impressive acting career. He started as a minor character in <em>When a Man Falls in Love</em>. In 2019 he was the main character of the TV show <em>Psychometric</em>which became a hit in South Korea. He then starred in the show <em>When My Love Blooms</em> in 2020. He has been confirmed to be a main charater in upcoming drama <em>Devil Judge</em>, which will air in the later half of this year.</h3></div>
 	<br>
 	<div class="name"><h2>Choi Youngjae</h2></div>
-		<div class="img"><img src="assets/images/youngjae.jpg" alt="youngjae"></div>
+		<div class="img"><img src="../assets/images/youngjae.jpg" alt="youngjae"></div>
 			<div class="paragraph"><h3>Choi Youngjae is the main singer of GOT7. He is known for being able to project his voice amazingly as well as hitting high notes. He is also a well known producer, using the name Ars to produce songs. He also goes by the name Ars on SoundCloud to release his solo songs. He was actually a modeling major before joining GOT7. </h3></div>
 	<br>
 	<div class="name"><h2>Kim Yugyeom</h2></div>
-		<div class="img"><img src="assets/images/yugyeom.jpg" alt="yugyeom"></div>
+		<div class="img"><img src="../assets/images/yugyeom.jpg" alt="yugyeom"></div>
 			<div class="paragraph"><h3>Kim Yougyeom is the youngest member of GOT7, born in 1999. He was also a modeling major befor debuting with GOT7. He is known for his dancing, even having won first place on the popular dance show "Hit the Stage" episode 10. He also has solo songs on SoundCloud.</h3></div>
 	<br>
-	<div class="pages"><h2>1 <u><a href="got72.dwt">2</a></u></h2></div>
+	<div class="pages"><h2>1 <u><a href="../got72.html">2</a></u></h2></div>
 	</body>
 </html>
