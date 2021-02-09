@@ -15,16 +15,17 @@
 <div class="title"><h1>Some More Info on <i>GOT7</i></h1></div>
 <body>
 	<div class="title"><h2>Here is a list of GOT7's most streamed songs on Spotify</h2></div>
-	<table style="width:100%">
+	<div class"table"><table style="width:100%">
 		<tr>
 			<th>Song Name</th>
 			<th>Number of Streams</th>
+			<th>Views on Youtube</th>
 		</tr>
 		<tr>
 		<td>Last Piece</td>
 		<td>8,703,813</td>
-		<td>Breathe</td>
+		<td>32,458,128</td>
 		</tr>
-	</table>
+	</table></div>
 </body>
 </html>
