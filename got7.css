@@ -52,6 +52,7 @@
 	color: #056720
 }
 
-.table{
-	margin-left: 300px;
+table, tr, td{
+	border:1px solid black;
+	border-collapse: collapse;
 }
